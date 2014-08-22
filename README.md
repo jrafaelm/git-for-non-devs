@@ -1,4 +1,4 @@
 git-for-non-devs
 ================
 
-used for a git tutorial
+used for a git tutorial to be recorded and posted on youtube 
